@@ -13,3 +13,5 @@ Fisheye lenses offer a wide field of view but introduce notable barrel distortio
 - **Robotics and Autonomous Vehicles:** Provides precise mapping and localization by undistorting fisheye images used for navigation and obstacle detection.
 - **360-Degree Photography and Videography:** Improves the quality of panoramic images and videos by correcting fisheye lens distortion.
 - **Security and Surveillance:** Enhances image accuracy in wide-area surveillance, facilitating better analysis and anomaly detection.
+
+### Heads-up: The Github preview of the Python notebook might display incorrectly, or only partially. Download the file to view the full project!
